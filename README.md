@@ -1,0 +1,14 @@
+# elite3gkx-user 6.0.1 MMB29M G165NKOU1AQJ3 release-keys
+- manufacturer: samsung
+- platform: msm8937
+- codename: elite3gkx
+- flavor: elite3gkx-user
+- release: 6.0.1
+- id: MMB29M
+- incremental: G165NKOU1AQJ3
+- tags: release-keys
+- fingerprint: samsung/elite3gkx/elite3gkx:6.0.1/MMB29M/G165NKOU1AQJ3:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: elite3gkx-user-6.0.1-MMB29M-G165NKOU1AQJ3-release-keys
+- repo: samsung_elite3gkx_dump
